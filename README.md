@@ -29,11 +29,10 @@ Built using **HTML, CSS, JavaScript, and PHP**, featuring multiple service pages
 
 easternwebsite/
 ├── index.html                          # Homepage
-├── \*.html                             # Service pages (Air, Ocean, Express, Healthcare, etc.)
+├── \*.php                              # Service pages (Air, Ocean, Express, Healthcare, etc.)
 ├── index.php                           # Optional PHP entry point
 ├── captcha.js                          # CAPTCHA frontend script
 ├── get\_captcha.php                    # CAPTCHA backend
-├── process.php                         # Contact form handler
 ├── process\_form1.php                  # Career form handler
 ├── mailer\_config.php                  # Mailer configuration
 ├── main.js / script.js                 # Core JavaScript
@@ -129,4 +128,5 @@ Potential enhancements:
 * Service booking system
 * CMS backend (WordPress/Strapi/etc.)
 * Advanced analytics & tracking
+
 * Enhanced animations (GSAP, AOS)
